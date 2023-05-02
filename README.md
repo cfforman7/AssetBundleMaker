@@ -6,3 +6,6 @@ AssetBundle Builder
 각 플랫폼 별로 버전이 별도로 관리가 될 수 있으므로 플랫폼 별로 Json 파일 형색의 에셋번들 파일 매니저를 생성하게 했습니다.
 
 에셋번들 파일 매니저에는 각 에셋별로 version, crc, name, url의 속성을 가지고 있어서, 라이브 서비스 시 필요 파일만 패치 할수 있도록 하였습니다.
+
+unity/ tools/ AssetBundleBuildWindow 로 접근 할 수 있으며
+에셋번들 저장 경로는 따로 설정 할 수 있게 해놨습니다.
