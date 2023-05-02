@@ -1,4 +1,4 @@
-# AssetBundleaBuilder
+# AssetBundleBuilder
 
 프로젝트 내에 에셋번들로 설정된 모든 리소스를 불러와 한눈에 볼 수 있게끔 합니다.
 빌드 타겟에 따라 각자 다른 폴더를 생성하고 번들 파일을 각자 관리 합니다.
